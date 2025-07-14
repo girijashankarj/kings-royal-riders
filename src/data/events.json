@@ -1,0 +1,62 @@
+{
+  "upcoming": [
+    {
+      "id": 1,
+      "title": "Mulshi Dam Ride",
+      "date": "2025-06-01",
+      "time": "07:00 AM",
+      "location": "Mulshi, Maharashtra",
+      "description": "Experience the thrill of riding to Mulshi Dam. Enjoy the scenic beauty and the serene environment.",
+      "distance": "110km",
+      "duration": "4.5 hours",
+      "difficulty": "Medium",
+      "type": "Adventure Ride",
+      "image": "/images/rides/mulshi.jpg",
+      "meetingPoint": "McDonald's, Wakad",
+      "maxParticipants": 20,
+      "currentParticipants": 0,
+      "guidelines": [
+        "Arrive 30 minutes before departure time",
+        "Ensure your bike has a full tank",
+        "Carry necessary personal items",
+        "Respect the environment and local customs"
+      ],
+      "inclusions": ["Breakfast", "Route Map", "Support Vehicle", "First Aid", "Photography"],
+      "status": "upcoming"
+    }
+  ],
+  "past": [
+    {
+      "id": 1,
+      "title": "Lavasa City Ride",
+      "date": "2025-05-11",
+      "location": "Lavasa, Maharashtra",
+      "description": "A beautiful ride through the ghats to Lavasa city.",
+      "distance": "80km",
+      "duration": "3 hours",
+      "type": "Weekend Ride",
+      "image": "/images/rides/lavasa.jpg",
+      "meetingPoint": "McDonald's, Wakad",
+      "maxParticipants": 20,
+      "currentParticipants": 18,
+      "inclusions": ["Breakfast", "Route Map", "Support Vehicle", "Photography"],
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "Mulshi Dam Adventure",
+      "date": "2025-05-04",
+      "location": "Mulshi, Maharashtra",
+      "description": "Scenic ride to Mulshi dam with photography sessions.",
+      "distance": "100km",
+      "duration": "5 hours",
+      "type": "Adventure Ride",
+      "image": "/images/rides/mulshi.jpg",
+      "meetingPoint": "McDonald's, Wakad",
+      "maxParticipants": 15,
+      "currentParticipants": 15,
+      "inclusions": ["Breakfast", "Route Map", "Support Vehicle", "Photography", "Dam Visit"],
+      "status": "completed"
+    }
+  ]
+}

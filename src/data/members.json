@@ -1,0 +1,168 @@
+{
+  "kings_council": [
+    {
+      "id": "member-1",
+      "name": "Gautam Prasad",
+      "role": "Founder & President",
+      "avatar": "/images/members/avatar-1.jpg",
+      "bio": "Founded KRR in 2012. Passionate about building the riding community.",
+      "rides": 150,
+      "yearJoined": 2012
+    },
+    {
+      "id": "member-2",
+      "name": "Gautam Kaul",
+      "role": "Vice President",
+      "avatar": "/images/members/avatar-2.jpg",
+      "bio": "Ride coordinator and safety instructor.",
+      "rides": 120,
+      "yearJoined": 2013
+    },
+    {
+      "id": "member-3",
+      "name": "Anant Bhukelepatil",
+      "role": "Council Member",
+      "avatar": "/images/members/avatar-3.jpg",
+      "bio": "Safety and training lead.",
+      "rides": 100,
+      "yearJoined": 2013
+    },
+    {
+      "id": "member-4",
+      "name": "Devendra Phalke",
+      "role": "Council Member",
+      "avatar": "/images/members/avatar-4.jpg",
+      "bio": "Event planning and coordination.",
+      "rides": 95,
+      "yearJoined": 2014
+    },
+    {
+      "id": "member-5",
+      "name": "Amit Mallick",
+      "role": "Council Member",
+      "avatar": "/images/members/avatar-5.jpg",
+      "bio": "Community outreach and CSR initiatives.",
+      "rides": 90,
+      "yearJoined": 2014
+    }
+  ],
+  "members": [
+    {
+      "id": "member-6",
+      "name": "Subi Babu",
+      "role": "Senior Rider",
+      "avatar": "/images/members/avatar-1.jpg",
+      "bio": "Adventure enthusiast and cross-country rider.",
+      "rides": 80,
+      "yearJoined": 2015
+    },
+    {
+      "id": "member-7",
+      "name": "Prashant Dawange",
+      "role": "Senior Rider",
+      "avatar": "/images/members/avatar-2.jpg",
+      "bio": "Photography lead and route planner.",
+      "rides": 75,
+      "yearJoined": 2015
+    },
+    {
+      "id": "member-8",
+      "name": "Sourya Gupta",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-3.jpg",
+      "bio": "Social media and content creator.",
+      "rides": 60,
+      "yearJoined": 2016
+    },
+    {
+      "id": "member-9",
+      "name": "Pritish Palekar",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-4.jpg",
+      "bio": "Technical support and bike maintenance expert.",
+      "rides": 55,
+      "yearJoined": 2016
+    },
+    {
+      "id": "member-10",
+      "name": "Shreyas Rai",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-5.jpg",
+      "bio": "Event coordinator and logistics.",
+      "rides": 50,
+      "yearJoined": 2017
+    },
+    {
+      "id": "member-11",
+      "name": "Ashish Jadhav",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-1.jpg",
+      "bio": "Safety instructor and mentor.",
+      "rides": 45,
+      "yearJoined": 2017
+    },
+    {
+      "id": "member-12",
+      "name": "Sumeet Rathod",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-2.jpg",
+      "bio": "Community engagement and member relations.",
+      "rides": 40,
+      "yearJoined": 2018
+    },
+    {
+      "id": "member-13",
+      "name": "Sohail Patel",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-3.jpg",
+      "bio": "Social media management and content creation.",
+      "rides": 35,
+      "yearJoined": 2018
+    },
+    {
+      "id": "member-14",
+      "name": "Satya Prakash Roul",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-4.jpg",
+      "bio": "Event planning and coordination.",
+      "rides": 30,
+      "yearJoined": 2019
+    },
+    {
+      "id": "member-15",
+      "name": "Rahul Dixit",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-5.jpg",
+      "bio": "Route planning and navigation.",
+      "rides": 25,
+      "yearJoined": 2019
+    },
+    {
+      "id": "member-16",
+      "name": "Abhishek Purohit",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-1.jpg",
+      "bio": "Safety and first aid coordinator.",
+      "rides": 20,
+      "yearJoined": 2020
+    },
+    {
+      "id": "member-17",
+      "name": "Ravi Dogra",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-2.jpg",
+      "bio": "Community events and gatherings.",
+      "rides": 15,
+      "yearJoined": 2020
+    },
+    {
+      "id": "member-18",
+      "name": "Amit Deshpande",
+      "role": "Rider",
+      "avatar": "/images/members/avatar-3.jpg",
+      "bio": "Photography and documentation.",
+      "rides": 10,
+      "yearJoined": 2021
+    }
+  ]
+}

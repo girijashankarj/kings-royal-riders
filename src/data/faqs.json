@@ -1,0 +1,74 @@
+{
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "How can I join the club?",
+      "answer": "You can reach out to us on our WhatsApp number, which is mentioned in the 'Contact Us' section. One of our council members will reach out to you to explain the onboarding process."
+    },
+    {
+      "id": "faq-2",
+      "question": "What is required to join the club?",
+      "answer": "Rider must have a valid Driving License and a Royal Enfield Motorcycle."
+    },
+    {
+      "id": "faq-3",
+      "question": "Is there a membership fee?",
+      "answer": "Yes, there is a nominal fee which includes some exciting merchandise."
+    },
+    {
+      "id": "faq-4",
+      "question": "How many rides can I expect?",
+      "answer": "We have 4 rides in a month. You can refer to the Our Ride Section for more details."
+    },
+    {
+      "id": "faq-5",
+      "question": "What help and support do we get during a ride?",
+      "answer": "For destination rides like Ladakh, we do have backup vans with mechanics. For short rides, we might not have backups, but our tail riders never leave a rider behind."
+    },
+    {
+      "id": "faq-6",
+      "question": "Are rides chargeable?",
+      "answer": "Rides may or may not be chargeable, and it depends on the specific ride. Some of our rides are free, while others may have a fee associated with them. It varies from ride to ride."
+    },
+    {
+      "id": "faq-7",
+      "question": "Can I get a non-member pillion?",
+      "answer": "Absolutely, we welcome nonmembers as pillions! We believe in spreading the joy of riding, even if it means introducing an uninitiated friend to the wild world of wind in your hair."
+    },
+    {
+      "id": "faq-8",
+      "question": "Usage of merchandise?",
+      "answer": "You can use our merchandise everywhere; however, items like jackets have some rules associated with them. One of our council members can explain these rules if you purchase such merchandise."
+    },
+    {
+      "id": "faq-9",
+      "question": "Who are Ride Captains?",
+      "answer": "Ride Captains are the magicians behind the ride! They conjure up the plans, work their execution magic, and make sure the journey is a start-to-finish adventure!"
+    },
+    {
+      "id": "faq-10",
+      "question": "Can I have multiple club membership?",
+      "answer": "Absolutely, you can have multiple club memberships! We encourage it - after all, one club is great, but more clubs mean more adventures and more stories to tell. Just don't forget to juggle the patch collection!"
+    },
+    {
+      "id": "faq-11",
+      "question": "Can I suggest Rides?",
+      "answer": "Of course, you can suggest a ride! We're always open to new ideas, just remember, it might lead to you becoming the official 'Ride Suggestion Guru' – with great power comes great responsibility, and possibly a silly hat!"
+    },
+    {
+      "id": "faq-12",
+      "question": "Rules to follow during rides?",
+      "answer": "Get ready for an amazing ride experience! Fuel up your bike before the ride kicks off, ensure you're punctual at the venue, because the ride won't wait for latecomers. Pay close attention and follow the instructions during the briefing – it's the key to a safe and enjoyable journey. Respect the road and other users by adhering to traffic rules, no honking, and absolutely no reckless riding. Always prioritize safety – think about your well-being and that of your fellow riders. Stay behind our captain and never overtake, and never linger behind the Tail."
+    },
+    {
+      "id": "faq-13",
+      "question": "What are the mandatory things to follow during ride?",
+      "answer": "Here's the golden rule for all riders and passengers: Helmets and proper footwear are a must – no exceptions allowed! Safety first, always."
+    },
+    {
+      "id": "faq-14",
+      "question": "What are the recommended things to follow during rides?",
+      "answer": "Here's a friendly tip for an extra dose of safety and comfort: We highly recommend riding with a quality full-face helmet that's your lifeline, along with protective gear like riding jackets, gloves, and knee guards. Your ride, your style, your safety."
+    }
+  ]
+}

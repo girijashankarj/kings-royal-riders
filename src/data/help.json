@@ -1,0 +1,66 @@
+{
+  "emergencyContacts": [
+    {
+      "name": "Club President",
+      "number": "+91 9***5 4***0"
+    },
+    {
+      "name": "Road Captain",
+      "number": "+91 9***5 4***1"
+    },
+    {
+      "name": "Technical Support",
+      "number": "+91 9***5 4***2"
+    },
+    {
+      "name": "Emergency Services",
+      "number": "112"
+    }
+  ],
+  "ridingTips": [
+    {
+      "title": "Basic Maintenance",
+      "icon": "BuildIcon",
+      "items": [
+        "Check oil levels before long rides",
+        "Inspect tire pressure and condition",
+        "Test all lights and indicators",
+        "Check chain tension and lubrication",
+        "Ensure brakes are working properly"
+      ]
+    },
+    {
+      "title": "Safety Gear",
+      "icon": "HealthAndSafetyIcon",
+      "items": [
+        "DOT/ECE certified helmet",
+        "Riding jacket with protection",
+        "Proper riding boots",
+        "Gloves with knuckle protection",
+        "High-visibility elements"
+      ]
+    },
+    {
+      "title": "Group Riding",
+      "icon": "MapIcon",
+      "items": [
+        "Maintain proper spacing",
+        "Use agreed hand signals",
+        "Stay in staggered formation",
+        "Communicate stops clearly",
+        "Keep track of riders behind"
+      ]
+    },
+    {
+      "title": "Communication",
+      "icon": "WifiIcon",
+      "items": [
+        "Save emergency contacts",
+        "Share live location",
+        "Use Bluetooth intercoms",
+        "Keep phone fully charged",
+        "Know hand signals"
+      ]
+    }
+  ]
+}

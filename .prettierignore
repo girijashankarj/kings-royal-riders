@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules
+dist
+
+# Build outputs
+build
+coverage
+
+# Cache directories
+.cache
+.npm
+
+# Environment files
+.env*
+
+# Log files
+*.log
+
+# Editor directories
+.idea
+.vscode

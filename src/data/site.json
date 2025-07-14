@@ -1,0 +1,166 @@
+{
+  "mission": {
+    "title": "Our Mission",
+    "statement": "Promoting a safe motorcycling culture through organised rides, events, and promotions, contributing to the improvement of the biking community and civic conditions of our society through impactful social responsibility initiatives."
+  },
+  "stats": {
+    "kilometers": "50,000+",
+    "members": "100+",
+    "events": "25+"
+  },
+  "features": [
+    {
+      "title": "Epic Rides",
+      "description": "Join our thrilling motorcycle adventures across Maharashtra's most scenic routes. From breakfast rides to multi-state expeditions!"
+    },
+    {
+      "title": "Community",
+      "description": "Connect with passionate riders who share your love for motorcycles. Join us for meetups, workshops, and incredible journeys."
+    },
+    {
+      "title": "Safety First",
+      "description": "Learn essential riding tips, safety protocols, and bike maintenance from our experienced members and certified trainers."
+    }
+  ],
+  "app": {
+    "name": "King's Royal Riders",
+    "shortName": "KRR",
+    "tagline": "Pune's Premier Motorcycle Community",
+    "description": "Pune's Premier Motorcycle Community",
+    "developer": "Garry TJ",
+    "copyright": "© 2024 King's Royal Riders. All rights reserved.",
+    "version": "1.0.0"
+  },
+  "navigation": [
+    {
+      "text": "Home",
+      "path": "/"
+    },
+    {
+      "text": "About",
+      "path": "/about"
+    },
+    {
+      "text": "Events",
+      "path": "/events"
+    },
+    {
+      "text": "Past Events",
+      "path": "/past-events"
+    },
+    {
+      "text": "Community",
+      "path": "/community"
+    },
+    {
+      "text": "Gallery",
+      "path": "/gallery"
+    },
+    {
+      "text": "Blog",
+      "path": "/blog"
+    },
+    {
+      "text": "Join Us",
+      "path": "/contact"
+    },
+    {
+      "text": "FAQ",
+      "path": "/faq"
+    },
+    {
+      "text": "Help",
+      "path": "/help"
+    }
+  ],
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you. Connect with us through any of these channels.",
+    "form": {
+      "title": "Send us a Message",
+      "fields": {
+        "name": {
+          "label": "Name",
+          "required": true
+        },
+        "email": {
+          "label": "Email",
+          "type": "email",
+          "required": true
+        },
+        "subject": {
+          "label": "Subject",
+          "required": true
+        },
+        "message": {
+          "label": "Message",
+          "required": true,
+          "rows": 6
+        },
+        "submit": {
+          "text": "Send Message"
+        }
+      }
+    },
+    "location": {
+      "title": "Find us Here",
+      "address": "Headquartered in Pune, Maharashtra",
+      "email": "contact@kingsroyalriders.com",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242118.17006977472!2d73.72287827306778!3d18.524411799172615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf2e67461101%3A0x828d43bf9d9ee343!2sPune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1708233988330!5m2!1sen!2sin",
+      "mapTitle": "King's Royal Riders Location"
+    }
+  },
+  "community": {
+    "title": "Community",
+    "subtitle": "Meet the passionate riders who make our community special",
+    "sections": {
+      "council": {
+        "title": "KING'S COUNCIL"
+      },
+      "members": {
+        "title": "KINGSMEN"
+      }
+    }
+  },
+  "home": {
+    "story": {
+      "title": "Our Story",
+      "content": "It all started in the fall of 2012 when a group of friends in Pune, with a sense of freedom, a love for their machines, and a burning passion to ride and explore, decided to take their passion to another level. A Ride to conquer The Great Himalayas on their Enfield motorcycles helped conceive the idea of forming a club which would get people with similar passion come together and celebrate and cherish an everlasting bond called \"Brotherhood\"."
+    },
+    "actions": {
+      "joinRide": "Join Next Ride",
+      "meetRiders": "Meet the Riders"
+    }
+  },
+  "about": {
+    "kingsCouncil": {
+      "description": "This Group of brothers holds the bloodline of the club, constantly trying to improve the club operations. Managing the overall governance of the club's operations along with the KINGSMEN is the primary goal of these folks keeping in mind the vision of the club."
+    },
+    "csr": {
+      "title": "Our CSR Initiative",
+      "content": "Being socially responsible is one of the key values that we uphold. When we crafted our CSR (Corporate Social Responsibility) Charter, we unanimously agreed to ensure that we run a few but highly impactful initiatives that can genuinely make a difference. Representatives from Team Prayas are always on the lookout for opportunities where we can help the underprivileged by reaching out to them directly, assessing their needs, and then organizing a drive that could range from providing food, shelter, education, feminine hygiene, and more."
+    }
+  },
+  "events": {
+    "upcoming": {
+      "subtitle": "Join us on our next adventure",
+      "registerButton": "Register Now"
+    }
+  },
+  "pastEvents": {
+    "title": "Our Past Adventures",
+    "subtitle": "Relive our memorable journeys and shared experiences"
+  },
+  "help": {
+    "subtitle": "We're here to assist you on your journey",
+    "alert": "Save these emergency contacts for quick access during rides",
+    "sections": {
+      "emergency": {
+        "title": "Emergency Contacts"
+      },
+      "tips": {
+        "title": "Essential Tips"
+      }
+    }
+  }
+}

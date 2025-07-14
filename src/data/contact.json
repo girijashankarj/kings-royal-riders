@@ -1,0 +1,36 @@
+{
+  "social": [
+    {
+      "title": "WhatsApp Community",
+      "icon": "WhatsAppIcon",
+      "description": "Join our active WhatsApp group for real-time updates",
+      "action": "Join Group",
+      "link": "https://whatsapp.com/group/kings-royal-riders",
+      "color": "#25D366"
+    },
+    {
+      "title": "Instagram",
+      "icon": "InstagramIcon",
+      "description": "Follow our rides and events on Instagram",
+      "action": "Follow Us",
+      "link": "https://instagram.com/kings_royal_riders_pune",
+      "color": "#E4405F"
+    },
+    {
+      "title": "Facebook",
+      "icon": "FacebookIcon",
+      "description": "Connect with our community on Facebook",
+      "action": "Like Page",
+      "link": "https://facebook.com/kings.royal.riders.pune",
+      "color": "#1877F2"
+    },
+    {
+      "title": "Email",
+      "icon": "EmailIcon",
+      "description": "Reach out to us via email",
+      "action": "Send Email",
+      "link": "mailto:contact@kingsroyalriders.com",
+      "color": "#EA4335"
+    }
+  ]
+}
