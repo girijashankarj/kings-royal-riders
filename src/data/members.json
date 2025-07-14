@@ -2,7 +2,7 @@
   "kings_council": [
     {
       "id": "member-1",
-      "name": "Gautam Prasad",
+      "name": "Anup Rajan",
       "role": "Founder & President",
       "avatar": "/images/members/avatar-1.jpg",
       "bio": "Founded KRR in 2012. Passionate about building the riding community.",
@@ -12,7 +12,7 @@
     {
       "id": "member-2",
       "name": "Gautam Kaul",
-      "role": "Vice President",
+      "role": "Council Member",
       "avatar": "/images/members/avatar-2.jpg",
       "bio": "Ride coordinator and safety instructor.",
       "rides": 120,
@@ -35,6 +35,15 @@
       "bio": "Event planning and coordination.",
       "rides": 95,
       "yearJoined": 2014
+    },
+    {
+      "id": "member-1",
+      "name": "Gautam Prasad",
+      "role": "Council Member",
+      "avatar": "/images/members/avatar-1.jpg",
+      "bio": "Founded KRR in 2012. Passionate about building the riding community.",
+      "rides": 150,
+      "yearJoined": 2012
     },
     {
       "id": "member-5",
