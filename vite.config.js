@@ -12,9 +12,9 @@ export default defineConfig({
   server: {
     port: 3000,
     open: true,
-    base: '/kings-royal-riders/',
+    base: '/kings-royal-riders-main/',
   },
-  base: '/kings-royal-riders/',
+  base: '/kings-royal-riders-main/',
   build: {
     outDir: 'dist',
     sourcemap: true,
