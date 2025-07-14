@@ -33,6 +33,7 @@ export default function About() {
   };
 
   const kingsCouncil = [
+    'Anup Rajan',
     'Gautam Prasad',
     'Gautam Kaul',
     'Anant Bhukelepatil',
