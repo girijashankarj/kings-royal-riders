@@ -46,4 +46,4 @@ npm run prod
 
 ## Base URL
 
-The site is configured to run at `https://[username].github.io/Kings/`. Make sure to update the `homepage` in `package.json` with your GitHub username.
+The site is configured to run at `https://girijashankarj.github.io/kings-royal-riders/`. Make sure to update the `homepage` in `package.json` with your GitHub username.
